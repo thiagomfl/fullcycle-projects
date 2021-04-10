@@ -6,7 +6,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/thienry/go-simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
-	kafka2 "github.com/thienry/go-simulator/application/kafka"
+	kafka2 "github.com/thienry/fullcycle-projects/simulator/application/kafka"
 )
 
 func init() {

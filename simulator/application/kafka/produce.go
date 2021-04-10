@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"github.com/thienry/go-simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
-	router "github.com/thienry/go-simulator/application/route"
+	router "github.com/fullcycle-projects/simulator/application/route"
 )
 
 func Produce(msg *ckafka.Message) {

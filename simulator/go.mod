@@ -1,4 +1,4 @@
-module github.com/thienry/go-simulator
+module github.com/thienry/fullcycle-projects/simulator
 
 go 1.16
 
