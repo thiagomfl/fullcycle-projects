@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 	"github.com/joho/godotenv"
-	"github.com/thienry/fullcycle-projects/simulator/infra/kafka"
+	"github.com/thienry/fullcycle-projects/tree/main/simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
-	kafka2 "github.com/thienry/fullcycle-projects/simulator/application/kafka"
+	kafka2 "github.com/thienry/fullcycle-projects/tree/main/simulator/application/kafka"
 )
 
 func init() {

@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 	"encoding/json"
-	"github.com/thienry/fullcycle-projects/simulator/infra/kafka"
+	"github.com/thienry/fullcycle-projects/tree/main/simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	router "github.com/fullcycle-projects/simulator/application/route"
 )
