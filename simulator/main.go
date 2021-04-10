@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"github.com/joho/godotenv"
-	"github.com/thienry/go-simulator/infra/kafka"
+	"github.com/thienry/fullcycle-projects/simulator/infra/kafka"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	kafka2 "github.com/thienry/fullcycle-projects/simulator/application/kafka"
 )
